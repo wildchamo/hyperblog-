@@ -2,5 +2,11 @@ hola!
 me llamo JOse Luis !
 ahora tengo 18 años 
 
+<<<<<<< HEAD
 master1 
 master 2
+=======
+experimento 2
+experimento 1
+master1 
+>>>>>>> 4d92726... ex 2
